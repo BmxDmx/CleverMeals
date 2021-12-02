@@ -1,0 +1,127 @@
+Recipe Name : Glow Water
+
+Recipe URL : https://www.delish.com/cooking/recipe-ideas/recipes/a54179/glow-water-recipe/
+
+Recipe IMG URL : https://www.edamam.com/web-img/f1a/f1afe23b2574e59f3319083bb3e9f949.jpg
+
+Recipe is free of : ['Vegan', 'Vegetarian', 'Pescatarian', 'Paleo', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Kosher']
+
+Recipe contains : ['Sulfites']
+
+Recipe Calories : 178.571
+
+Recipe Weight : 2081.2666666666664
+
+Recipe Time : 5.0
+
+Recipe Cuisine Tyoe : ['american']
+
+Recipe Diet Label : ['Low-Fat', 'Low-Sodium']
+
+Recipe Meal Type : ['breakfast']
+
+Recipe Dish Type : ['starter']
+
+3 cans seltzer water
+1 cucumber, cut into 1/2" rounds
+3 sprigs mint
+1 lemon, thinly sliced
+1 peach, sliced
+Ginger, skin removed and sliced into rounds
+1 cinnamon stick
+3 strawberries, halved
+1 lime, thinly sliced
+
+
+[
+  {
+    "text": "3 cans seltzer water",
+    "quantity": 3.0,
+    "measure": "can",
+    "food": "seltzer",
+    "weight": 1422.0,
+    "foodCategory": "flavored water",
+    "foodId": "food_ae33wnvaild66dawgxsqlbcrp02x",
+    "image": "https://www.edamam.com/food-img/0c7/0c7ea246f0c3b05641539fd1861c1c20.jpg"
+  },
+  {
+    "text": "1 cucumber, cut into 1/2\" rounds",
+    "quantity": 1.0,
+    "measure": "<unit>",
+    "food": "cucumber",
+    "weight": 301.0,
+    "foodCategory": "vegetables",
+    "foodId": "food_bv7aggjag9rxsaatklqzobca5fzn",
+    "image": "https://www.edamam.com/food-img/501/5015da0e5fc2b384696b3d949aefef86.jpg"
+  },
+  {
+    "text": "3 sprigs mint",
+    "quantity": 3.0,
+    "measure": "sprig",
+    "food": "mint",
+    "weight": 34.2,
+    "foodCategory": "Condiments and sauces",
+    "foodId": "food_bxl4xoga4owdkeay51sy8anesxj5",
+    "image": "https://www.edamam.com/food-img/7f0/7f01cc4f71c5c6ad31051ed74b9c058b.jpg"
+  },
+  {
+    "text": "1 lemon, thinly sliced",
+    "quantity": 1.0,
+    "measure": "<unit>",
+    "food": "lemon",
+    "weight": 58.0,
+    "foodCategory": "fruit",
+    "foodId": "food_a6uzc62astrxcgbtzyq59b6fncrr",
+    "image": "https://www.edamam.com/food-img/70a/70acba3d4c734d7c70ef4efeed85dc8f.jpg"
+  },
+  {
+    "text": "1 peach, sliced",
+    "quantity": 1.0,
+    "measure": "<unit>",
+    "food": "peach",
+    "weight": 153.16666666666669,
+    "foodCategory": "fruit",
+    "foodId": "food_b8pgy4cbnid3sfawqjg92a63pq85",
+    "image": "https://www.edamam.com/food-img/437/4378245cfab2121c9e6eb9e3c3dc9ac8.jpg"
+  },
+  {
+    "text": "Ginger, skin removed and sliced into rounds",
+    "quantity": 1.0,
+    "measure": "round",
+    "food": "Ginger",
+    "weight": 3.0,
+    "foodCategory": "vegetables",
+    "foodId": "food_bi2ki2xb5zmmvbaiwf7ztbgktzp6",
+    "image": "https://www.edamam.com/food-img/b9c/b9c06ef451ef29513880af0a53ebbaa6.jpg"
+  },
+  {
+    "text": "1 cinnamon stick",
+    "quantity": 1.0,
+    "measure": "<unit>",
+    "food": "cinnamon stick",
+    "weight": 2.6,
+    "foodCategory": "Condiments and sauces",
+    "foodId": "food_atjxtznauw5zabaixm24xa787onz",
+    "image": "https://www.edamam.com/food-img/d4d/d4daa18b92c596a1c99c08537c38e65b.jpg"
+  },
+  {
+    "text": "3 strawberries, halved",
+    "quantity": 3.0,
+    "measure": "<unit>",
+    "food": "strawberries",
+    "weight": 40.3,
+    "foodCategory": "fruit",
+    "foodId": "food_b4s2ibkbrrucmbabbaxhfau8ay42",
+    "image": "https://www.edamam.com/food-img/00c/00c8851e401bf7975be7f73499b4b573.jpg"
+  },
+  {
+    "text": "1 lime, thinly sliced",
+    "quantity": 1.0,
+    "measure": "<unit>",
+    "food": "lime",
+    "weight": 67.0,
+    "foodCategory": "fruit",
+    "foodId": "food_av58muyb8kg92fbk0g8g8aui5knv",
+    "image": "https://www.edamam.com/food-img/48a/48a123c9576647c4ada6a41df5eeb22a.jpg"
+  }
+]

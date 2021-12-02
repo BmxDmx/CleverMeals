@@ -1,0 +1,72 @@
+Recipe Name : Water Toast
+
+Recipe URL : http://www.saveur.com/article/Recipes/Water-Toast
+
+Recipe IMG URL : https://www.edamam.com/web-img/3c2/3c222611473e0d79953a24cd91a0c8e2.jpg
+
+Recipe is free of : ['Sugar-Conscious', 'Low Potassium', 'Kidney-Friendly', 'Vegetarian', 'Pescatarian', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'Kosher', 'Immuno-Supportive']
+
+Recipe contains : []
+
+Recipe Calories : 201.147
+
+Recipe Weight : 293.08181461375716
+
+Recipe Time : 0.0
+
+Recipe Cuisine Tyoe : ['british']
+
+Recipe Diet Label : ['Balanced']
+
+Recipe Meal Type : ['breakfast']
+
+Recipe Dish Type : ['starter']
+
+2 slices dry toast
+¾ tsp. salt
+1 cup boiling water
+½ tbsp. butter
+
+
+[
+  {
+    "text": "2 slices dry toast",
+    "quantity": 2.0,
+    "measure": "slice",
+    "food": "toast",
+    "weight": 48.0,
+    "foodCategory": "bread, rolls and tortillas",
+    "foodId": "food_apk1psxaqtsilfbfxoa5hbxfgdg4",
+    "image": "https://www.edamam.com/food-img/6c0/6c0c1e866e0106b960d1463a9bdc54db.jpg"
+  },
+  {
+    "text": "\u00be tsp. salt",
+    "quantity": 0.75,
+    "measure": "teaspoon",
+    "food": "salt",
+    "weight": 4.5,
+    "foodCategory": "Condiments and sauces",
+    "foodId": "food_btxz81db72hwbra2pncvebzzzum9",
+    "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+  },
+  {
+    "text": "1 cup boiling water",
+    "quantity": 1.0,
+    "measure": "cup",
+    "food": "water",
+    "weight": 237.0,
+    "foodCategory": "water",
+    "foodId": "food_a99vzubbk1ayrsad318rvbzr3dh0",
+    "image": "https://www.edamam.com/food-img/5dd/5dd9d1361847b2ca53c4b19a8f92627e.jpg"
+  },
+  {
+    "text": "\u00bd tbsp. butter",
+    "quantity": 0.5,
+    "measure": "tablespoon",
+    "food": "butter",
+    "weight": 7.1,
+    "foodCategory": "Dairy",
+    "foodId": "food_awz3iefajbk1fwahq9logahmgltj",
+    "image": "https://www.edamam.com/food-img/713/71397239b670d88c04faa8d05035cab4.jpg"
+  }
+]

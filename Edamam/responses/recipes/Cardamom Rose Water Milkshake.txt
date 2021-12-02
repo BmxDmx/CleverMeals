@@ -1,0 +1,83 @@
+Recipe Name : Cardamom Rose Water Milkshake
+
+Recipe URL : http://www.joythebaker.com/blog/2010/07/cardamom-rose-water-milk-shake/
+
+Recipe IMG URL : https://www.edamam.com/web-img/332/332a38a4eed5fd999d8d9797fb30ff0a.jpg
+
+Recipe is free of : ['Vegetarian', 'Pescatarian', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Kosher']
+
+Recipe contains : []
+
+Recipe Calories : 321.92999999877344
+
+Recipe Weight : 454.89338239068303
+
+Recipe Time : 0.0
+
+Recipe Cuisine Tyoe : ['american']
+
+Recipe Diet Label : ['Balanced', 'Low-Sodium']
+
+Recipe Meal Type : ['teatime']
+
+Recipe Dish Type : ['drinks']
+
+1 1/4 cup tart frozen yogurt
+1/2 cup 2 percent milk
+1/4 tsp ground cardamom
+1-2 tbsp granulated sugar, depending on how much of a sweet tooth you have
+1 1/2 tsp rose water
+
+
+[
+  {
+    "text": "1 1/4 cup tart frozen yogurt",
+    "quantity": 1.25,
+    "measure": "cup",
+    "food": "yogurt",
+    "weight": 306.25,
+    "foodCategory": "yogurt",
+    "foodId": "food_a79ojfkbgdeekgblqmky9bunr8f6",
+    "image": "https://www.edamam.com/food-img/933/933eb3791b3a2175e007f1607d56b7e2.jpg"
+  },
+  {
+    "text": "1/2 cup 2 percent milk",
+    "quantity": 0.5,
+    "measure": "cup",
+    "food": "2 percent milk",
+    "weight": 122.0,
+    "foodCategory": "Milk",
+    "foodId": "food_b01nbmjap120xca2qfohoau291hr",
+    "image": "https://www.edamam.com/food-img/18b/18b88b88c2baa25781872f37f338c963.jpg"
+  },
+  {
+    "text": "1/4 tsp ground cardamom",
+    "quantity": 0.25,
+    "measure": "teaspoon",
+    "food": "cardamom",
+    "weight": 0.5,
+    "foodCategory": "Condiments and sauces",
+    "foodId": "food_atsmcv9azh5khfbu2jqs3bivfj4a",
+    "image": "https://www.edamam.com/food-img/39d/39d4bfdf9dad662e89ae7bcb933c0def.jpg"
+  },
+  {
+    "text": "1-2 tbsp granulated sugar, depending on how much of a sweet tooth you have",
+    "quantity": 1.5,
+    "measure": "tablespoon",
+    "food": "granulated sugar",
+    "weight": 18.74999999968305,
+    "foodCategory": "sugars",
+    "foodId": "food_axi2ijobrk819yb0adceobnhm1c2",
+    "image": "https://www.edamam.com/food-img/ecb/ecb3f5aaed96d0188c21b8369be07765.jpg"
+  },
+  {
+    "text": "1 1/2 tsp rose water",
+    "quantity": 1.5,
+    "measure": "teaspoon",
+    "food": "rose water",
+    "weight": 7.393382391,
+    "foodCategory": "water",
+    "foodId": "food_ancmkv3blupx7vas460qwbtd2nfi",
+    "image": "https://www.edamam.com/food-img/5dd/5dd9d1361847b2ca53c4b19a8f92627e.jpg"
+  }
+]

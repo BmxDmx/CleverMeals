@@ -1,0 +1,61 @@
+Recipe Name : Water Kefir from 'Mastering Fermentation'
+
+Recipe URL : http://www.seriouseats.com/recipes/2013/09/water-kefir-from-mastering-fermentation.html
+
+Recipe IMG URL : https://www.edamam.com/web-img/ef0/ef09f78b4b3303170d5d2b62fc40a3b4.jpg
+
+Recipe is free of : ['Low Potassium', 'Kidney-Friendly', 'Keto-Friendly', 'Vegetarian', 'Pescatarian', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Kosher']
+
+Recipe contains : []
+
+Recipe Calories : 586.7270833336491
+
+Recipe Weight : 3004.208333333851
+
+Recipe Time : 10800.0
+
+Recipe Cuisine Tyoe : ['american']
+
+Recipe Diet Label : ['Low-Fat', 'Low-Sodium']
+
+Recipe Meal Type : ['breakfast']
+
+Recipe Dish Type : ['desserts']
+
+12 cups nonchlorinated water, at room temperature (see note below)
+3/4 cup raw unrefined cane sugar or Sucanat
+2 teaspoons dehydrated water kefir grains
+
+
+[
+  {
+    "text": "12 cups nonchlorinated water, at room temperature (see note below)",
+    "quantity": 12.0,
+    "measure": "cup",
+    "food": "water",
+    "weight": 2844.0,
+    "foodCategory": "water",
+    "foodId": "food_a99vzubbk1ayrsad318rvbzr3dh0",
+    "image": "https://www.edamam.com/food-img/5dd/5dd9d1361847b2ca53c4b19a8f92627e.jpg"
+  },
+  {
+    "text": "3/4 cup raw unrefined cane sugar or Sucanat",
+    "quantity": 0.75,
+    "measure": "cup",
+    "food": "sugar",
+    "weight": 150.0,
+    "foodCategory": "sugars",
+    "foodId": "food_axi2ijobrk819yb0adceobnhm1c2",
+    "image": "https://www.edamam.com/food-img/ecb/ecb3f5aaed96d0188c21b8369be07765.jpg"
+  },
+  {
+    "text": "2 teaspoons dehydrated water kefir grains",
+    "quantity": 2.0,
+    "measure": "teaspoon",
+    "food": "kefir",
+    "weight": 10.20833333385112,
+    "foodCategory": "yogurt",
+    "foodId": "food_a79ojfkbgdeekgblqmky9bunr8f6",
+    "image": "https://www.edamam.com/food-img/933/933eb3791b3a2175e007f1607d56b7e2.jpg"
+  }
+]

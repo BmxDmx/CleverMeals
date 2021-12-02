@@ -1,0 +1,105 @@
+Recipe Name : Rose Water Marshmallows recipes
+
+Recipe URL : http://www.bonappetit.com/recipe/rose-water-marshmallows
+
+Recipe IMG URL : https://www.edamam.com/web-img/bdd/bdd85d8cc40bba944452d11e5544e072
+
+Recipe is free of : ['Low Potassium', 'Kidney-Friendly', 'Keto-Friendly', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free']
+
+Recipe contains : []
+
+Recipe Calories : 1928.3029726192747
+
+Recipe Weight : 548.8325764883416
+
+Recipe Time : 35.0
+
+Recipe Cuisine Tyoe : ['american']
+
+Recipe Diet Label : ['Low-Fat', 'Low-Sodium']
+
+Recipe Meal Type : ['teatime']
+
+Recipe Dish Type : ['desserts']
+
+vegetable oil spray
+½ cup powdered sugar, divided, plus more for dusting
+½ ounce unflavored powdered gelatin
+2 large egg whites
+2 cups sugar
+¼ teaspoon rose water or orange-flower water
+1 drop red or orange food coloring (optional)
+
+
+[
+  {
+    "text": "vegetable oil spray",
+    "quantity": 0.0,
+    "measure": null,
+    "food": "vegetable oil",
+    "weight": 7.363973007341599,
+    "foodCategory": "Oils",
+    "foodId": "food_bt1mzi2ah2sfg8bv7no1qai83w8s",
+    "image": "https://www.edamam.com/food-img/6e5/6e51a63a6300a8ea1b4c4cc68dfaba33.jpg"
+  },
+  {
+    "text": "\u00bd cup powdered sugar, divided, plus more for dusting",
+    "quantity": 0.5,
+    "measure": "cup",
+    "food": "powdered sugar",
+    "weight": 60.0,
+    "foodCategory": "sugars",
+    "foodId": "food_b7rbtshahirxisbtyc77sbv8jdue",
+    "image": "https://www.edamam.com/food-img/290/290624aa4c0e279551e462443e38bb40.jpg"
+  },
+  {
+    "text": "\u00bd ounce unflavored powdered gelatin",
+    "quantity": 0.5,
+    "measure": "ounce",
+    "food": "gelatin",
+    "weight": 14.1747615625,
+    "foodCategory": "candy",
+    "foodId": "food_bh3w81wbiqrfmhbaw9hgwa3u7lky",
+    "image": "https://www.edamam.com/food-img/47a/47a5b5c20c3cbfaf7332d572a5bfddbe.jpg"
+  },
+  {
+    "text": "2 large egg whites",
+    "quantity": 2.0,
+    "measure": "<unit>",
+    "food": "egg whites",
+    "weight": 66.0,
+    "foodCategory": "Eggs",
+    "foodId": "food_a7hurbpb20zs42bnwg2p8bca3ihs",
+    "image": "https://www.edamam.com/food-img/b30/b304a020501418f9a63cf7f9359bc99d.jpg"
+  },
+  {
+    "text": "2 cups sugar",
+    "quantity": 2.0,
+    "measure": "cup",
+    "food": "sugar",
+    "weight": 400.0,
+    "foodCategory": "sugars",
+    "foodId": "food_axi2ijobrk819yb0adceobnhm1c2",
+    "image": "https://www.edamam.com/food-img/ecb/ecb3f5aaed96d0188c21b8369be07765.jpg"
+  },
+  {
+    "text": "\u00bc teaspoon rose water or orange-flower water",
+    "quantity": 0.25,
+    "measure": "teaspoon",
+    "food": "rose water",
+    "weight": 1.2322303985,
+    "foodCategory": "water",
+    "foodId": "food_ancmkv3blupx7vas460qwbtd2nfi",
+    "image": "https://www.edamam.com/food-img/5dd/5dd9d1361847b2ca53c4b19a8f92627e.jpg"
+  },
+  {
+    "text": "1 drop red or orange food coloring (optional)",
+    "quantity": 1.0,
+    "measure": "drop",
+    "food": "food coloring",
+    "weight": 0.06161152,
+    "foodCategory": "water",
+    "foodId": "food_avcjo2fattdi8eafpf0ujatvwb7i",
+    "image": "https://www.edamam.com/food-img/5dd/5dd9d1361847b2ca53c4b19a8f92627e.jpg"
+  }
+]

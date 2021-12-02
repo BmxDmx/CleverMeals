@@ -1,0 +1,50 @@
+Recipe Name : Summer water
+
+Recipe URL : https://food52.com/recipes/13294-summer-water
+
+Recipe IMG URL : https://www.edamam.com/web-img/13d/13d49250f0f82bff4d4607e654adba03.jpg
+
+Recipe is free of : ['Kidney-Friendly', 'Vegan', 'Vegetarian', 'Pescatarian', 'Mediterranean', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Sulfite-Free', 'Kosher']
+
+Recipe contains : ['Sulfites']
+
+Recipe Calories : 247.51864617749072
+
+Recipe Weight : 1515.6638462031055
+
+Recipe Time : 1.0
+
+Recipe Cuisine Tyoe : ['south american']
+
+Recipe Diet Label : ['Low-Fat', 'Low-Sodium']
+
+Recipe Meal Type : ['snack']
+
+Recipe Dish Type : ['starter']
+
+500 milliliters apricot juice
+1 liter water
+
+
+[
+  {
+    "text": "500 milliliters apricot juice",
+    "quantity": 500.0,
+    "measure": "milliliter",
+    "food": "apricot juice",
+    "weight": 515.6638462031057,
+    "foodCategory": "canned fruit",
+    "foodId": "food_ai1hseqbtnemttbakjc6fbr3m1du",
+    "image": "https://www.edamam.com/food-img/45b/45bb015f514eb34b2005d3e7a9f64a3f.jpg"
+  },
+  {
+    "text": "1 liter water",
+    "quantity": 1.0,
+    "measure": "liter",
+    "food": "water",
+    "weight": 1000.0,
+    "foodCategory": "water",
+    "foodId": "food_a99vzubbk1ayrsad318rvbzr3dh0",
+    "image": "https://www.edamam.com/food-img/5dd/5dd9d1361847b2ca53c4b19a8f92627e.jpg"
+  }
+]
