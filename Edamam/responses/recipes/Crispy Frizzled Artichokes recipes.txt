@@ -1,0 +1,72 @@
+Recipe Name : Crispy Frizzled Artichokes recipes
+
+Recipe URL : https://smittenkitchen.com/2015/06/crispy-frizzled-artichokes/
+
+Recipe IMG URL : https://www.edamam.com/web-img/585/585064d750d123eeefb28b4c5be960a4
+
+Recipe is free of : ['Sugar-Conscious', 'Low Potassium', 'Kidney-Friendly', 'Keto-Friendly', 'Vegan', 'Vegetarian', 'Pescatarian', 'Paleo', 'Mediterranean', 'DASH', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'FODMAP-Free', 'Kosher', 'Immuno-Supportive']
+
+Recipe contains : ['Sulfites']
+
+Recipe Calories : 35.8815776
+
+Recipe Weight : 89.11304000000001
+
+Recipe Time : 70.0
+
+Recipe Cuisine Tyoe : ['mediterranean']
+
+Recipe Diet Label : ['Balanced', 'Low-Sodium']
+
+Recipe Meal Type : ['lunch/dinner']
+
+Recipe Dish Type : ['condiments and sauces']
+
+1 to 2 lemons, halved (1 should be fine for smaller amounts)
+olive oil
+coarse salt
+leaf parsley
+
+
+[
+  {
+    "text": "1 to 2 lemons, halved (1 should be fine for smaller amounts)",
+    "quantity": 1.5,
+    "measure": "<unit>",
+    "food": "lemons",
+    "weight": 87.0,
+    "foodCategory": "fruit",
+    "foodId": "food_a6uzc62astrxcgbtzyq59b6fncrr",
+    "image": "https://www.edamam.com/food-img/70a/70acba3d4c734d7c70ef4efeed85dc8f.jpg"
+  },
+  {
+    "text": "olive oil",
+    "quantity": 0.0,
+    "measure": null,
+    "food": "olive oil",
+    "weight": 1.18864,
+    "foodCategory": "Oils",
+    "foodId": "food_b1d1icuad3iktrbqby0hiagafaz7",
+    "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+  },
+  {
+    "text": "coarse salt",
+    "quantity": 0.0,
+    "measure": null,
+    "food": "coarse salt",
+    "weight": 0.5244000000000001,
+    "foodCategory": "Condiments and sauces",
+    "foodId": "food_a1vgrj1bs8rd1majvmd9ubz8ttkg",
+    "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+  },
+  {
+    "text": "leaf parsley",
+    "quantity": 1.0,
+    "measure": "leaf",
+    "food": "parsley",
+    "weight": 0.4,
+    "foodCategory": "vegetables",
+    "foodId": "food_b244pqdazw24zobr5vqu2bf0uid8",
+    "image": "https://www.edamam.com/food-img/46a/46a132e96626d7989b4d6ed8c91f4da0.jpg"
+  }
+]

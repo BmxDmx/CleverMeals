@@ -1,0 +1,50 @@
+Recipe Name : Imperial Royale Recipe
+
+Recipe URL : http://www.seriouseats.com/recipes/2014/05/imperial-royale-bud-light-lime-st-germain-shandy-cocktail-recipe.html
+
+Recipe IMG URL : https://www.edamam.com/web-img/5fe/5fe11a25ce174a865d6f677c076ce262.jpg
+
+Recipe is free of : ['Vegan', 'Vegetarian', 'Pescatarian', 'Mediterranean', 'Dairy-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'No oil added', 'Kosher', 'Alcohol-Cocktail']
+
+Recipe contains : ['Sulfites']
+
+Recipe Calories : 292.56707865000004
+
+Recipe Weight : 396.89332375
+
+Recipe Time : 1.0
+
+Recipe Cuisine Tyoe : ['world']
+
+Recipe Diet Label : ['High-Fiber', 'Low-Fat', 'Low-Sodium']
+
+Recipe Meal Type : ['lunch/dinner']
+
+Recipe Dish Type : ['alcohol-cocktail']
+
+1 (12 ounce) can or bottle Bud Light Lime, chilled
+2 ounces St. Germain elderflower liqueur
+
+
+[
+  {
+    "text": "1 (12 ounce) can or bottle Bud Light Lime, chilled",
+    "quantity": 12.0,
+    "measure": "ounce",
+    "food": "Lime",
+    "weight": 340.1942775,
+    "foodCategory": "fruit",
+    "foodId": "food_av58muyb8kg92fbk0g8g8aui5knv",
+    "image": "https://www.edamam.com/food-img/48a/48a123c9576647c4ada6a41df5eeb22a.jpg"
+  },
+  {
+    "text": "2 ounces St. Germain elderflower liqueur",
+    "quantity": 2.0,
+    "measure": "ounce",
+    "food": "liqueur",
+    "weight": 56.69904625,
+    "foodCategory": "liquors and cocktails",
+    "foodId": "food_bp0j7rfap97183a6ix0nob71qqx0",
+    "image": "https://www.edamam.com/food-img/625/6255aae740942e782ad588caa6aa86ca.jpg"
+  }
+]

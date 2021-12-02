@@ -1,0 +1,61 @@
+Recipe Name : Yuzu Kosho
+
+Recipe URL : http://norecipes.com/blog/2011/10/30/yuzu-kosho-yuzu-chili-paste/
+
+Recipe IMG URL : https://www.edamam.com/web-img/3cb/3cbca745062064c3bbd561a951d9b8c0.jpg
+
+Recipe is free of : ['Vegan', 'Vegetarian', 'Pescatarian', 'Paleo', 'Mediterranean', 'DASH', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Sulfite-Free', 'FODMAP-Free', 'Kosher', 'Immuno-Supportive']
+
+Recipe contains : ['Sulfites']
+
+Recipe Calories : 147.43555555555554
+
+Recipe Weight : 584.0252845565933
+
+Recipe Time : 0.0
+
+Recipe Cuisine Tyoe : ['south east asian']
+
+Recipe Diet Label : ['High-Fiber', 'Low-Fat']
+
+Recipe Meal Type : ['lunch/dinner']
+
+Recipe Dish Type : ['condiments and sauces']
+
+2 green togarashi pepper (or 3 thai bird chilis)
+6 green yuzu
+1 teaspoon salt
+
+
+[
+  {
+    "text": "2 green togarashi pepper (or 3 thai bird chilis)",
+    "quantity": 2.0,
+    "measure": "<unit>",
+    "food": "pepper",
+    "weight": 232.57777777777778,
+    "foodCategory": "vegetables",
+    "foodId": "food_bz8rcwobbzm7zhb3wh2n7aznivou",
+    "image": "https://www.edamam.com/food-img/629/629dc9fddc1f8aec27fa337dd6ce2b7c.jpg"
+  },
+  {
+    "text": "6 green yuzu",
+    "quantity": 6.0,
+    "measure": "<unit>",
+    "food": "yuzu",
+    "weight": 348.0,
+    "foodCategory": "fruit",
+    "foodId": "food_a6uzc62astrxcgbtzyq59b6fncrr",
+    "image": "https://www.edamam.com/food-img/70a/70acba3d4c734d7c70ef4efeed85dc8f.jpg"
+  },
+  {
+    "text": "1 teaspoon salt",
+    "quantity": 1.0,
+    "measure": "teaspoon",
+    "food": "salt",
+    "weight": 6.0,
+    "foodCategory": "Condiments and sauces",
+    "foodId": "food_btxz81db72hwbra2pncvebzzzum9",
+    "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+  }
+]

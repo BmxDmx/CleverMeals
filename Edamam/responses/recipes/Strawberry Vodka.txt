@@ -1,0 +1,50 @@
+Recipe Name : Strawberry Vodka
+
+Recipe URL : http://www.davidlebovitz.com/strawberry-vodka-recipe-infusion/
+
+Recipe IMG URL : https://www.edamam.com/web-img/018/018c94e42ca9816d6800e22e1d967906.jpg
+
+Recipe is free of : ['Sugar-Conscious', 'Low Potassium', 'Kidney-Friendly', 'Keto-Friendly', 'Vegan', 'Vegetarian', 'Pescatarian', 'Paleo', 'Mediterranean', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'No oil added', 'Sulfite-Free', 'Kosher', 'Alcohol-Cocktail']
+
+Recipe contains : ['Wheat', 'Sulfites']
+
+Recipe Calories : 1857.0816824002154
+
+Recipe Weight : 1419.0223733334265
+
+Recipe Time : 36.0
+
+Recipe Cuisine Tyoe : ['world']
+
+Recipe Diet Label : ['Low-Fat', 'Low-Sodium']
+
+Recipe Meal Type : ['lunch/dinner']
+
+Recipe Dish Type : ['alcohol-cocktail']
+
+One bottle (750ml) vodka
+2 pints (about 1 1/4 pounds, 575g) strawberries, organic or unsprayed
+
+
+[
+  {
+    "text": "One bottle (750ml) vodka",
+    "quantity": 750.0,
+    "measure": "milliliter",
+    "food": "vodka",
+    "weight": 705.0223733334266,
+    "foodCategory": "liquors and cocktails",
+    "foodId": "food_aqnx4i8aieyph2athk58cb3cr69w",
+    "image": "https://www.edamam.com/food-img/e1a/e1a4708099e89fdadeb81c2d95deaa34.jpg"
+  },
+  {
+    "text": "2 pints (about 1 1/4 pounds, 575g) strawberries, organic or unsprayed",
+    "quantity": 2.0,
+    "measure": "pint",
+    "food": "strawberries",
+    "weight": 714.0,
+    "foodCategory": "fruit",
+    "foodId": "food_b4s2ibkbrrucmbabbaxhfau8ay42",
+    "image": "https://www.edamam.com/food-img/00c/00c8851e401bf7975be7f73499b4b573.jpg"
+  }
+]

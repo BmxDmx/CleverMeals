@@ -1,0 +1,72 @@
+Recipe Name : Frothy Indian Coffee
+
+Recipe URL : http://www.sevenspoons.net/blog/2011/5/9/halfway-already.html
+
+Recipe IMG URL : https://www.edamam.com/web-img/bd3/bd36cf6d5fc839c66e8098186ef121d5.jpg
+
+Recipe is free of : ['Kidney-Friendly', 'Vegetarian', 'Pescatarian', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Kosher']
+
+Recipe contains : ['Sulfites']
+
+Recipe Calories : 187.23599999928382
+
+Recipe Weight : 262.04999999979714
+
+Recipe Time : 0.0
+
+Recipe Cuisine Tyoe : ['indian']
+
+Recipe Diet Label : ['Balanced', 'Low-Sodium']
+
+Recipe Meal Type : ['lunch/dinner']
+
+Recipe Dish Type : ['desserts']
+
+3/4 cup milk
+1/4 cup water, plus around 1/2 teaspoon more
+4 tsp sugar, or to taste
+1 tbsp instant coffee powder
+
+
+[
+  {
+    "text": "3/4 cup milk",
+    "quantity": 0.75,
+    "measure": "cup",
+    "food": "milk",
+    "weight": 183.0,
+    "foodCategory": "Milk",
+    "foodId": "food_b49rs1kaw0jktabzkg2vvanvvsis",
+    "image": "https://www.edamam.com/food-img/7c9/7c9962acf83654a8d98ea6a2ade93735.jpg"
+  },
+  {
+    "text": "1/4 cup water, plus around 1/2 teaspoon more",
+    "quantity": 0.25,
+    "measure": "cup",
+    "food": "water",
+    "weight": 59.25,
+    "foodCategory": "water",
+    "foodId": "food_a99vzubbk1ayrsad318rvbzr3dh0",
+    "image": "https://www.edamam.com/food-img/5dd/5dd9d1361847b2ca53c4b19a8f92627e.jpg"
+  },
+  {
+    "text": "4 tsp sugar, or to taste",
+    "quantity": 4.0,
+    "measure": "teaspoon",
+    "food": "sugar",
+    "weight": 16.8,
+    "foodCategory": "sugars",
+    "foodId": "food_axi2ijobrk819yb0adceobnhm1c2",
+    "image": "https://www.edamam.com/food-img/ecb/ecb3f5aaed96d0188c21b8369be07765.jpg"
+  },
+  {
+    "text": "1 tbsp instant coffee powder",
+    "quantity": 1.0,
+    "measure": "tablespoon",
+    "food": "instant coffee powder",
+    "weight": 2.999999999797116,
+    "foodCategory": "coffee and tea",
+    "foodId": "food_aof7z08ad0qgsta38run7arojif8",
+    "image": "https://www.edamam.com/food-img/336/336e810373dd353a955a6896699b586e.jpg"
+  }
+]

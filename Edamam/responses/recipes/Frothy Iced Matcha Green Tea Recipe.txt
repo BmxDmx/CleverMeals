@@ -1,0 +1,50 @@
+Recipe Name : Frothy Iced Matcha Green Tea Recipe
+
+Recipe URL : http://www.seriouseats.com/recipes/2016/08/iced-matcha-green-tea-recipe.html
+
+Recipe IMG URL : https://www.edamam.com/web-img/643/643d4bad9cc21284f7f52b1b9b862848.jpg
+
+Recipe is free of : ['Sugar-Conscious', 'Low Sugar', 'Low Potassium', 'Kidney-Friendly', 'Keto-Friendly', 'Vegan', 'Vegetarian', 'Pescatarian', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Kosher']
+
+Recipe contains : ['Sulfites']
+
+Recipe Calories : 0.06
+
+Recipe Weight : 232.796185
+
+Recipe Time : 2.0
+
+Recipe Cuisine Tyoe : ['american']
+
+Recipe Diet Label : ['High-Protein', 'Low-Fat', 'Low-Sodium']
+
+Recipe Meal Type : ['lunch/dinner']
+
+Recipe Dish Type : ['drinks']
+
+2 teaspoons (6g) Japanese matcha green tea (see note above)
+8 ounces (235ml) cold water
+
+
+[
+  {
+    "text": "2 teaspoons (6g) Japanese matcha green tea (see note above)",
+    "quantity": 6.0,
+    "measure": "gram",
+    "food": "green tea",
+    "weight": 6.0,
+    "foodCategory": "coffee and tea",
+    "foodId": "food_bkruak3a9kn081aom63x9a0lpqxn",
+    "image": "https://www.edamam.com/food-img/db9/db99a766fad87e02b4eac4840daaeaad.jpg"
+  },
+  {
+    "text": "8 ounces (235ml) cold water",
+    "quantity": 8.0,
+    "measure": "ounce",
+    "food": "water",
+    "weight": 226.796185,
+    "foodCategory": "water",
+    "foodId": "food_a99vzubbk1ayrsad318rvbzr3dh0",
+    "image": "https://www.edamam.com/food-img/5dd/5dd9d1361847b2ca53c4b19a8f92627e.jpg"
+  }
+]

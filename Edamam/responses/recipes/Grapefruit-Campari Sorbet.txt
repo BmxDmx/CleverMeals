@@ -1,0 +1,61 @@
+Recipe Name : Grapefruit-Campari Sorbet
+
+Recipe URL : http://www.davidlebovitz.com/2011/04/grapefruit-campari-sorbet/
+
+Recipe IMG URL : https://www.edamam.com/web-img/438/4382424dddef71ef8bcde6a475f9f285.jpg
+
+Recipe is free of : ['Vegan', 'Vegetarian', 'Pescatarian', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'No oil added', 'Kosher']
+
+Recipe contains : ['Sulfites']
+
+Recipe Calories : 1016.1604602359425
+
+Recipe Weight : 989.4077530562259
+
+Recipe Time : 0.0
+
+Recipe Cuisine Tyoe : ['eastern europe']
+
+Recipe Diet Label : ['Low-Fat', 'Low-Sodium']
+
+Recipe Meal Type : ['lunch/dinner']
+
+Recipe Dish Type : ['desserts']
+
+3 cups (750ml) freshly squeezed pink grapefruit juice (about 6 grapefruits)
+3/4 cup (150g) sugar
+1/4 cup (60ml) Campari
+
+
+[
+  {
+    "text": "3 cups (750ml) freshly squeezed pink grapefruit juice (about 6 grapefruits)",
+    "quantity": 750.0,
+    "measure": "milliliter",
+    "food": "pink grapefruit juice",
+    "weight": 783.0059631895518,
+    "foodCategory": "100% juice",
+    "foodId": "food_bw43vfcb5p3954b4eq837adlqg6w",
+    "image": "https://www.edamam.com/food-img/8aa/8aa0be9515509e45f703a656fc6abee7.jpg"
+  },
+  {
+    "text": "3/4 cup (150g) sugar",
+    "quantity": 150.0,
+    "measure": "gram",
+    "food": "sugar",
+    "weight": 150.0,
+    "foodCategory": "sugars",
+    "foodId": "food_axi2ijobrk819yb0adceobnhm1c2",
+    "image": "https://www.edamam.com/food-img/ecb/ecb3f5aaed96d0188c21b8369be07765.jpg"
+  },
+  {
+    "text": "1/4 cup (60ml) Campari",
+    "quantity": 60.0,
+    "measure": "milliliter",
+    "food": "Campari",
+    "weight": 56.40178986667412,
+    "foodCategory": "liquors and cocktails",
+    "foodId": "food_ajguqpia53yz3oah6w2frad3tz65",
+    "image": "https://www.edamam.com/food-img/c7f/c7fcc63de96b349534aade3de3f9fa7d.jpg"
+  }
+]

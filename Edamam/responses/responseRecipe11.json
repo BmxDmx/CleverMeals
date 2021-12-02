@@ -1,307 +1,219 @@
 {
   "recipe": {
-    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_780db9862fcff1e81840f69633ceb52f",
-    "label": "Rose Water Marshmallows",
-    "image": "https://www.edamam.com/web-img/f18/f18d3f09ec72052e79cd3a21e2288677.jpg",
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_92f5af46a5adafda4b26ff16f4fb7c89",
+    "label": "Stovetop Crab Innards",
+    "image": "https://www.edamam.com/web-img/02f/02f244dc60783625aa4c7cede53d4cdb.jpg",
     "images": {
       "THUMBNAIL": {
-        "url": "https://www.edamam.com/web-img/f18/f18d3f09ec72052e79cd3a21e2288677-s.jpg",
+        "url": "https://www.edamam.com/web-img/02f/02f244dc60783625aa4c7cede53d4cdb-s.jpg",
         "width": 100,
         "height": 100
       },
       "SMALL": {
-        "url": "https://www.edamam.com/web-img/f18/f18d3f09ec72052e79cd3a21e2288677-m.jpg",
+        "url": "https://www.edamam.com/web-img/02f/02f244dc60783625aa4c7cede53d4cdb-m.jpg",
         "width": 200,
         "height": 200
       },
       "REGULAR": {
-        "url": "https://www.edamam.com/web-img/f18/f18d3f09ec72052e79cd3a21e2288677.jpg",
+        "url": "https://www.edamam.com/web-img/02f/02f244dc60783625aa4c7cede53d4cdb.jpg",
         "width": 300,
         "height": 300
-      },
-      "LARGE": {
-        "url": "https://www.edamam.com/web-img/f18/f18d3f09ec72052e79cd3a21e2288677-l.jpg",
-        "width": 600,
-        "height": 600
       }
     },
-    "source": "Food & Wine",
-    "url": "http://www.foodandwine.com/recipes/rose-water-marshmallows",
-    "shareAs": "http://www.edamam.com/recipe/rose-water-marshmallows-780db9862fcff1e81840f69633ceb52f/water",
-    "yield": 6.0,
+    "source": "Serious Eats",
+    "url": "http://www.seriouseats.com/recipes/2011/02/stovetop-crab-innards.html",
+    "shareAs": "http://www.edamam.com/recipe/stovetop-crab-innards-92f5af46a5adafda4b26ff16f4fb7c89/-/peanut-free",
+    "yield": 2.0,
     "dietLabels": [
-      "Low-Fat",
-      "Low-Sodium"
+      "High-Protein",
+      "Low-Fat"
     ],
     "healthLabels": [
-      "Low Potassium",
-      "Kidney-Friendly",
+      "Sugar-Conscious",
+      "Low Sugar",
+      "Keto-Friendly",
+      "Pescatarian",
       "Dairy-Free",
       "Gluten-Free",
       "Wheat-Free",
+      "Egg-Free",
       "Peanut-Free",
       "Tree-Nut-Free",
       "Soy-Free",
       "Fish-Free",
-      "Shellfish-Free",
+      "Pork-Free",
       "Red-Meat-Free",
-      "Crustacean-Free",
       "Celery-Free",
       "Mustard-Free",
       "Sesame-Free",
       "Lupine-Free",
       "Mollusk-Free",
-      "Alcohol-Free",
-      "No oil added"
+      "No oil added",
+      "Sulfite-Free"
     ],
-    "cautions": [
-      "Gluten",
-      "Wheat"
-    ],
+    "cautions": [],
     "ingredientLines": [
-      "1/2 cup cornstarch",
-      "1/2 cup confectioners' sugar",
-      "2 tablespoons unflavored gelatin",
-      "1 1/2 cups water",
-      "1 cup granulated sugar",
-      "1/3 cup light corn syrup",
-      "5 large egg whites, at room temperature",
-      "3 tablespoons rose water",
-      "2 teaspoons pure vanilla extract"
+      "One dungeness crab shell from one live dungeness crab",
+      "2 tablespoons sake"
     ],
     "ingredients": [
       {
-        "text": "1/2 cup cornstarch",
-        "quantity": 0.5,
-        "measure": "cup",
-        "food": "cornstarch",
-        "weight": 64.0,
-        "foodCategory": null,
-        "foodId": "food_bevnfkfbvjm45pbbgj9nsb3ypntm",
-        "image": "https://www.edamam.com/food-img/f9b/f9b74d9495b40c0aea955c37a1fc39dc.jpg"
-      },
-      {
-        "text": "1/2 cup confectioners' sugar",
-        "quantity": 0.5,
-        "measure": "cup",
-        "food": "confectioners' sugar",
-        "weight": 60.0,
-        "foodCategory": "sugars",
-        "foodId": "food_b7rbtshahirxisbtyc77sbv8jdue",
-        "image": "https://www.edamam.com/food-img/290/290624aa4c0e279551e462443e38bb40.jpg"
-      },
-      {
-        "text": "2 tablespoons unflavored gelatin",
-        "quantity": 2.0,
-        "measure": "tablespoon",
-        "food": "gelatin",
-        "weight": 13.8,
-        "foodCategory": "candy",
-        "foodId": "food_bh3w81wbiqrfmhbaw9hgwa3u7lky",
-        "image": "https://www.edamam.com/food-img/47a/47a5b5c20c3cbfaf7332d572a5bfddbe.jpg"
-      },
-      {
-        "text": "1 1/2 cups water",
-        "quantity": 1.5,
-        "measure": "cup",
-        "food": "water",
-        "weight": 355.5,
-        "foodCategory": "water",
-        "foodId": "food_a99vzubbk1ayrsad318rvbzr3dh0",
-        "image": "https://www.edamam.com/food-img/5dd/5dd9d1361847b2ca53c4b19a8f92627e.jpg"
-      },
-      {
-        "text": "1 cup granulated sugar",
+        "text": "One dungeness crab shell from one live dungeness crab",
         "quantity": 1.0,
-        "measure": "cup",
-        "food": "granulated sugar",
-        "weight": 200.0,
-        "foodCategory": "sugars",
-        "foodId": "food_axi2ijobrk819yb0adceobnhm1c2",
-        "image": "https://www.edamam.com/food-img/ecb/ecb3f5aaed96d0188c21b8369be07765.jpg"
+        "measure": "crab",
+        "food": "dungeness crab",
+        "weight": 163.0,
+        "foodCategory": "seafood",
+        "foodId": "food_bp4gkeybdil2wyb0rx7vha9ghzd9",
+        "image": "https://www.edamam.com/food-img/130/130482a04fdbd639b13b93f60c75b605.jpg"
       },
       {
-        "text": "1/3 cup light corn syrup",
-        "quantity": 0.3333333333333333,
-        "measure": "cup",
-        "food": "light corn syrup",
-        "weight": 113.66666666666666,
-        "foodCategory": "sugars",
-        "foodId": "food_b8n4w6faic9hd1a7t9vx1bxq42wr",
-        "image": "https://www.edamam.com/food-img/148/1488bb6a128ff5142e0a52d5eeb36d36.jpg"
-      },
-      {
-        "text": "5 large egg whites, at room temperature",
-        "quantity": 5.0,
-        "measure": "<unit>",
-        "food": "egg whites",
-        "weight": 165.0,
-        "foodCategory": "Eggs",
-        "foodId": "food_a7hurbpb20zs42bnwg2p8bca3ihs",
-        "image": "https://www.edamam.com/food-img/b30/b304a020501418f9a63cf7f9359bc99d.jpg"
-      },
-      {
-        "text": "3 tablespoons rose water",
-        "quantity": 3.0,
-        "measure": "tablespoon",
-        "food": "rose water",
-        "weight": 44.360294343,
-        "foodCategory": "water",
-        "foodId": "food_ancmkv3blupx7vas460qwbtd2nfi",
-        "image": "https://www.edamam.com/food-img/5dd/5dd9d1361847b2ca53c4b19a8f92627e.jpg"
-      },
-      {
-        "text": "2 teaspoons pure vanilla extract",
+        "text": "2 tablespoons sake",
         "quantity": 2.0,
-        "measure": "teaspoon",
-        "food": "vanilla extract",
-        "weight": 8.4,
-        "foodCategory": "Condiments and sauces",
-        "foodId": "food_bh1wvnqaw3q7ciascfoygaabax2a",
-        "image": "https://www.edamam.com/food-img/90f/90f910b0bf82750d4f6528263e014cca.jpg"
+        "measure": "tablespoon",
+        "food": "sake",
+        "weight": 29.09999999950801,
+        "foodCategory": "cocktails and liquors",
+        "foodId": "food_b4lx3glaxob844b6jpzb8ay9men8",
+        "image": "https://www.edamam.com/food-img/bb7/bb76cdd34c080bf65908c09812fd9c8d.jpg"
       }
     ],
-    "calories": 1729.1386666666665,
-    "totalWeight": 1024.7269610096666,
-    "totalTime": 0.0,
+    "calories": 179.17399999934074,
+    "totalWeight": 192.09999999950801,
+    "totalTime": 10.0,
     "cuisineType": [
-      "american"
+      "mediterranean"
     ],
     "mealType": [
-      "teatime"
+      "lunch/dinner"
     ],
     "dishType": [
-      "desserts"
+      "sandwiches"
     ],
     "totalNutrients": {
       "ENERC_KCAL": {
         "label": "Energy",
-        "quantity": 1729.1386666666665,
+        "quantity": 179.17399999934074,
         "unit": "kcal"
       },
       "FAT": {
         "label": "Total lipid (fat)",
-        "quantity": 0.5586733333333334,
+        "quantity": 1.5811000000000002,
         "unit": "g"
       },
       "FASAT": {
         "label": "Fatty acids, total saturated",
-        "quantity": 0.01626,
+        "quantity": 0.21516000000000002,
         "unit": "g"
       },
       "FAMS": {
         "label": "Fatty acids, total monounsaturated",
-        "quantity": 0.019360000000000002,
+        "quantity": 0.27221,
         "unit": "g"
       },
       "FAPU": {
         "label": "Fatty acids, total polyunsaturated",
-        "quantity": 0.017716,
+        "quantity": 0.51671,
         "unit": "g"
       },
       "CHOCDF": {
         "label": "Carbohydrate, by difference",
-        "quantity": 407.7865333333333,
+        "quantity": 2.661199999975401,
         "unit": "g"
       },
       "FIBTG": {
         "label": "Fiber, total dietary",
-        "quantity": 0.5760000000000001,
+        "quantity": 0.0,
         "unit": "g"
       },
       "SUGAR": {
         "label": "Sugars, total",
-        "quantity": 347.7819999999999,
-        "unit": "g"
-      },
-      "SUGAR.added": {
-        "label": "Sugars, added",
-        "quantity": 345.54789999999997,
+        "quantity": 0.0,
         "unit": "g"
       },
       "PROCNT": {
         "label": "Protein",
-        "quantity": 29.969240000000006,
+        "quantity": 28.523799999997543,
         "unit": "g"
       },
       "CHOLE": {
         "label": "Cholesterol",
-        "quantity": 0.0,
+        "quantity": 96.17,
         "unit": "mg"
       },
       "NA": {
         "label": "Sodium, Na",
-        "quantity": 397.13174510705335,
+        "quantity": 481.4319999999902,
         "unit": "mg"
       },
       "CA": {
         "label": "Calcium, Ca",
-        "quantity": 50.71647549695666,
+        "quantity": 76.4349999999754,
         "unit": "mg"
       },
       "MG": {
         "label": "Magnesium, Mg",
-        "quantity": 29.249269610096672,
+        "quantity": 75.09599999997049,
         "unit": "mg"
       },
       "K": {
         "label": "Potassium, K",
-        "quantity": 291.84666666666675,
+        "quantity": 584.2949999998771,
         "unit": "mg"
       },
       "FE": {
         "label": "Iron, Fe",
-        "quantity": 0.73206,
+        "quantity": 0.632199999999508,
         "unit": "mg"
       },
       "ZN": {
         "label": "Zinc, Zn",
-        "quantity": 0.6825793627676332,
+        "quantity": 6.965919999999901,
         "unit": "mg"
       },
       "P": {
         "label": "Phosphorus, P",
-        "quantity": 38.956,
+        "quantity": 298.4059999999705,
         "unit": "mg"
       },
       "VITA_RAE": {
         "label": "Vitamin A, RAE",
-        "quantity": 0.0,
+        "quantity": 44.010000000000005,
         "unit": "\u00b5g"
       },
       "VITC": {
         "label": "Vitamin C, total ascorbic acid",
-        "quantity": 0.0,
+        "quantity": 5.705,
         "unit": "mg"
       },
       "THIA": {
         "label": "Thiamin",
-        "quantity": 0.0780373333333333,
+        "quantity": 0.07661000000000001,
         "unit": "mg"
       },
       "RIBF": {
         "label": "Riboflavin",
-        "quantity": 0.81347,
+        "quantity": 0.27221,
         "unit": "mg"
       },
       "NIA": {
         "label": "Niacin",
-        "quantity": 0.22068000000000002,
+        "quantity": 5.118200000000001,
         "unit": "mg"
       },
       "VITB6A": {
         "label": "Vitamin B-6",
-        "quantity": 0.0114,
+        "quantity": 0.2445,
         "unit": "mg"
       },
       "FOLDFE": {
         "label": "Folate, DFE",
-        "quantity": 10.740000000000002,
+        "quantity": 71.72,
         "unit": "\u00b5g"
       },
       "FOLFD": {
         "label": "Folate, food",
-        "quantity": 10.740000000000002,
+        "quantity": 71.72,
         "unit": "\u00b5g"
       },
       "FOLAC": {
@@ -311,7 +223,7 @@
       },
       "VITB12": {
         "label": "Vitamin B-12",
-        "quantity": 0.1485,
+        "quantity": 14.670000000000002,
         "unit": "\u00b5g"
       },
       "VITD": {
@@ -331,119 +243,119 @@
       },
       "WATER": {
         "label": "Water",
-        "quantity": 581.5918207153238,
+        "quantity": 151.87779999961433,
         "unit": "g"
       }
     },
     "totalDaily": {
       "ENERC_KCAL": {
         "label": "Energy",
-        "quantity": 86.45693333333332,
+        "quantity": 8.958699999967036,
         "unit": "%"
       },
       "FAT": {
         "label": "Fat",
-        "quantity": 0.8594974358974359,
+        "quantity": 2.4324615384615385,
         "unit": "%"
       },
       "FASAT": {
         "label": "Saturated",
-        "quantity": 0.08130000000000001,
+        "quantity": 1.0758,
         "unit": "%"
       },
       "CHOCDF": {
         "label": "Carbs",
-        "quantity": 135.92884444444442,
+        "quantity": 0.887066666658467,
         "unit": "%"
       },
       "FIBTG": {
         "label": "Fiber",
-        "quantity": 2.3040000000000003,
+        "quantity": 0.0,
         "unit": "%"
       },
       "PROCNT": {
         "label": "Protein",
-        "quantity": 59.938480000000006,
+        "quantity": 57.04759999999508,
         "unit": "%"
       },
       "CHOLE": {
         "label": "Cholesterol",
-        "quantity": 0.0,
+        "quantity": 32.056666666666665,
         "unit": "%"
       },
       "NA": {
         "label": "Sodium",
-        "quantity": 16.547156046127224,
+        "quantity": 20.059666666666256,
         "unit": "%"
       },
       "CA": {
         "label": "Calcium",
-        "quantity": 5.071647549695666,
+        "quantity": 7.643499999997541,
         "unit": "%"
       },
       "MG": {
         "label": "Magnesium",
-        "quantity": 6.964111811927779,
+        "quantity": 17.879999999992975,
         "unit": "%"
       },
       "K": {
         "label": "Potassium",
-        "quantity": 6.209503546099293,
+        "quantity": 12.431808510635681,
         "unit": "%"
       },
       "FE": {
         "label": "Iron",
-        "quantity": 4.067,
+        "quantity": 3.512222222219489,
         "unit": "%"
       },
       "ZN": {
         "label": "Zinc",
-        "quantity": 6.205266934251211,
+        "quantity": 63.32654545454455,
         "unit": "%"
       },
       "P": {
         "label": "Phosphorus",
-        "quantity": 5.565142857142858,
+        "quantity": 42.62942857142436,
         "unit": "%"
       },
       "VITA_RAE": {
         "label": "Vitamin A",
-        "quantity": 0.0,
+        "quantity": 4.890000000000001,
         "unit": "%"
       },
       "VITC": {
         "label": "Vitamin C",
-        "quantity": 0.0,
+        "quantity": 6.338888888888889,
         "unit": "%"
       },
       "THIA": {
         "label": "Thiamin (B1)",
-        "quantity": 6.503111111111109,
+        "quantity": 6.384166666666668,
         "unit": "%"
       },
       "RIBF": {
         "label": "Riboflavin (B2)",
-        "quantity": 62.57461538461539,
+        "quantity": 20.939230769230768,
         "unit": "%"
       },
       "NIA": {
         "label": "Niacin (B3)",
-        "quantity": 1.37925,
+        "quantity": 31.988750000000003,
         "unit": "%"
       },
       "VITB6A": {
         "label": "Vitamin B6",
-        "quantity": 0.876923076923077,
+        "quantity": 18.807692307692307,
         "unit": "%"
       },
       "FOLDFE": {
         "label": "Folate equivalent (total)",
-        "quantity": 2.6850000000000005,
+        "quantity": 17.93,
         "unit": "%"
       },
       "VITB12": {
         "label": "Vitamin B12",
-        "quantity": 6.1875,
+        "quantity": 611.2500000000001,
         "unit": "%"
       },
       "VITD": {
@@ -467,18 +379,18 @@
         "label": "Fat",
         "tag": "FAT",
         "schemaOrgTag": "fatContent",
-        "total": 0.5586733333333334,
+        "total": 1.5811000000000002,
         "hasRDI": true,
-        "daily": 0.8594974358974359,
+        "daily": 2.4324615384615385,
         "unit": "g",
         "sub": [
           {
             "label": "Saturated",
             "tag": "FASAT",
             "schemaOrgTag": "saturatedFatContent",
-            "total": 0.01626,
+            "total": 0.21516000000000002,
             "hasRDI": true,
-            "daily": 0.08130000000000001,
+            "daily": 1.0758,
             "unit": "g"
           },
           {
@@ -494,7 +406,7 @@
             "label": "Monounsaturated",
             "tag": "FAMS",
             "schemaOrgTag": null,
-            "total": 0.019360000000000002,
+            "total": 0.27221,
             "hasRDI": false,
             "daily": 0.0,
             "unit": "g"
@@ -503,7 +415,7 @@
             "label": "Polyunsaturated",
             "tag": "FAPU",
             "schemaOrgTag": null,
-            "total": 0.017716,
+            "total": 0.51671,
             "hasRDI": false,
             "daily": 0.0,
             "unit": "g"
@@ -514,9 +426,9 @@
         "label": "Carbs",
         "tag": "CHOCDF",
         "schemaOrgTag": "carbohydrateContent",
-        "total": 407.7865333333333,
+        "total": 2.661199999975401,
         "hasRDI": true,
-        "daily": 135.92884444444442,
+        "daily": 0.887066666658467,
         "unit": "g",
         "sub": [
           {
@@ -532,16 +444,16 @@
             "label": "Fiber",
             "tag": "FIBTG",
             "schemaOrgTag": "fiberContent",
-            "total": 0.5760000000000001,
+            "total": 0.0,
             "hasRDI": true,
-            "daily": 2.3040000000000003,
+            "daily": 0.0,
             "unit": "g"
           },
           {
             "label": "Sugars",
             "tag": "SUGAR",
             "schemaOrgTag": "sugarContent",
-            "total": 347.7819999999999,
+            "total": 0.0,
             "hasRDI": false,
             "daily": 0.0,
             "unit": "g"
@@ -550,7 +462,7 @@
             "label": "Sugars, added",
             "tag": "SUGAR.added",
             "schemaOrgTag": null,
-            "total": 345.54789999999997,
+            "total": 0.0,
             "hasRDI": false,
             "daily": 0.0,
             "unit": "g"
@@ -561,151 +473,151 @@
         "label": "Protein",
         "tag": "PROCNT",
         "schemaOrgTag": "proteinContent",
-        "total": 29.969240000000006,
+        "total": 28.523799999997543,
         "hasRDI": true,
-        "daily": 59.938480000000006,
+        "daily": 57.04759999999508,
         "unit": "g"
       },
       {
         "label": "Cholesterol",
         "tag": "CHOLE",
         "schemaOrgTag": "cholesterolContent",
-        "total": 0.0,
+        "total": 96.17,
         "hasRDI": true,
-        "daily": 0.0,
+        "daily": 32.056666666666665,
         "unit": "mg"
       },
       {
         "label": "Sodium",
         "tag": "NA",
         "schemaOrgTag": "sodiumContent",
-        "total": 397.13174510705335,
+        "total": 481.4319999999902,
         "hasRDI": true,
-        "daily": 16.547156046127224,
+        "daily": 20.059666666666256,
         "unit": "mg"
       },
       {
         "label": "Calcium",
         "tag": "CA",
         "schemaOrgTag": null,
-        "total": 50.71647549695666,
+        "total": 76.4349999999754,
         "hasRDI": true,
-        "daily": 5.071647549695666,
+        "daily": 7.643499999997541,
         "unit": "mg"
       },
       {
         "label": "Magnesium",
         "tag": "MG",
         "schemaOrgTag": null,
-        "total": 29.249269610096672,
+        "total": 75.09599999997049,
         "hasRDI": true,
-        "daily": 6.964111811927779,
+        "daily": 17.879999999992975,
         "unit": "mg"
       },
       {
         "label": "Potassium",
         "tag": "K",
         "schemaOrgTag": null,
-        "total": 291.84666666666675,
+        "total": 584.2949999998771,
         "hasRDI": true,
-        "daily": 6.209503546099293,
+        "daily": 12.431808510635681,
         "unit": "mg"
       },
       {
         "label": "Iron",
         "tag": "FE",
         "schemaOrgTag": null,
-        "total": 0.73206,
+        "total": 0.632199999999508,
         "hasRDI": true,
-        "daily": 4.067,
+        "daily": 3.512222222219489,
         "unit": "mg"
       },
       {
         "label": "Zinc",
         "tag": "ZN",
         "schemaOrgTag": null,
-        "total": 0.6825793627676332,
+        "total": 6.965919999999901,
         "hasRDI": true,
-        "daily": 6.205266934251211,
+        "daily": 63.32654545454455,
         "unit": "mg"
       },
       {
         "label": "Phosphorus",
         "tag": "P",
         "schemaOrgTag": null,
-        "total": 38.956,
+        "total": 298.4059999999705,
         "hasRDI": true,
-        "daily": 5.565142857142858,
+        "daily": 42.62942857142436,
         "unit": "mg"
       },
       {
         "label": "Vitamin A",
         "tag": "VITA_RAE",
         "schemaOrgTag": null,
-        "total": 0.0,
+        "total": 44.010000000000005,
         "hasRDI": true,
-        "daily": 0.0,
+        "daily": 4.890000000000001,
         "unit": "\u00b5g"
       },
       {
         "label": "Vitamin C",
         "tag": "VITC",
         "schemaOrgTag": null,
-        "total": 0.0,
+        "total": 5.705,
         "hasRDI": true,
-        "daily": 0.0,
+        "daily": 6.338888888888889,
         "unit": "mg"
       },
       {
         "label": "Thiamin (B1)",
         "tag": "THIA",
         "schemaOrgTag": null,
-        "total": 0.0780373333333333,
+        "total": 0.07661000000000001,
         "hasRDI": true,
-        "daily": 6.503111111111109,
+        "daily": 6.384166666666668,
         "unit": "mg"
       },
       {
         "label": "Riboflavin (B2)",
         "tag": "RIBF",
         "schemaOrgTag": null,
-        "total": 0.81347,
+        "total": 0.27221,
         "hasRDI": true,
-        "daily": 62.57461538461539,
+        "daily": 20.939230769230768,
         "unit": "mg"
       },
       {
         "label": "Niacin (B3)",
         "tag": "NIA",
         "schemaOrgTag": null,
-        "total": 0.22068000000000002,
+        "total": 5.118200000000001,
         "hasRDI": true,
-        "daily": 1.37925,
+        "daily": 31.988750000000003,
         "unit": "mg"
       },
       {
         "label": "Vitamin B6",
         "tag": "VITB6A",
         "schemaOrgTag": null,
-        "total": 0.0114,
+        "total": 0.2445,
         "hasRDI": true,
-        "daily": 0.876923076923077,
+        "daily": 18.807692307692307,
         "unit": "mg"
       },
       {
         "label": "Folate equivalent (total)",
         "tag": "FOLDFE",
         "schemaOrgTag": null,
-        "total": 10.740000000000002,
+        "total": 71.72,
         "hasRDI": true,
-        "daily": 2.6850000000000005,
+        "daily": 17.93,
         "unit": "\u00b5g"
       },
       {
         "label": "Folate (food)",
         "tag": "FOLFD",
         "schemaOrgTag": null,
-        "total": 10.740000000000002,
+        "total": 71.72,
         "hasRDI": false,
         "daily": 0.0,
         "unit": "\u00b5g"
@@ -723,9 +635,9 @@
         "label": "Vitamin B12",
         "tag": "VITB12",
         "schemaOrgTag": null,
-        "total": 0.1485,
+        "total": 14.670000000000002,
         "hasRDI": true,
-        "daily": 6.1875,
+        "daily": 611.2500000000001,
         "unit": "\u00b5g"
       },
       {
@@ -768,7 +680,7 @@
         "label": "Water",
         "tag": "WATER",
         "schemaOrgTag": null,
-        "total": 581.5918207153238,
+        "total": 151.87779999961433,
         "hasRDI": false,
         "daily": 0.0,
         "unit": "g"
@@ -777,7 +689,7 @@
   },
   "_links": {
     "self": {
-      "href": "https://api.edamam.com/api/recipes/v2/780db9862fcff1e81840f69633ceb52f?type=public&app_id=4cd0ab6b&app_key=fa1ac224ed371e8aab696b447e424a22",
+      "href": "https://api.edamam.com/api/recipes/v2/92f5af46a5adafda4b26ff16f4fb7c89?type=public&app_id=4cd0ab6b&app_key=fa1ac224ed371e8aab696b447e424a22",
       "title": "Self"
     }
   }

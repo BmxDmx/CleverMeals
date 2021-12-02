@@ -1,0 +1,61 @@
+Recipe Name : Maple Banana Frozen Yogurt
+
+Recipe URL : http://norecipes.com/blog/2008/04/26/maple-banana-frozen-yogurt/
+
+Recipe IMG URL : https://www.edamam.com/web-img/b2d/b2dbd9ac524a41cae54682d3b5dc8d10.jpg
+
+Recipe is free of : ['Vegetarian', 'Pescatarian', 'Mediterranean', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Sulfite-Free', 'Kosher']
+
+Recipe contains : ['Sulfites']
+
+Recipe Calories : 494.7333457000001
+
+Recipe Weight : 689.1923700000001
+
+Recipe Time : 0.0
+
+Recipe Cuisine Tyoe : ['american']
+
+Recipe Diet Label : ['Balanced', 'Low-Sodium']
+
+Recipe Meal Type : ['lunch/dinner']
+
+Recipe Dish Type : ['desserts']
+
+2 rice bananas
+16 oz maple yogurt (I use Brown Cow Cream Top)
+1 tsp vanilla
+
+
+[
+  {
+    "text": "2 rice bananas",
+    "quantity": 2.0,
+    "measure": "<unit>",
+    "food": "bananas",
+    "weight": 231.4,
+    "foodCategory": "fruit",
+    "foodId": "food_bjsfxtcaidvmhaa3afrbna43q3hu",
+    "image": "https://www.edamam.com/food-img/9f6/9f6181163a25c96022ee3fc66d9ebb11.jpg"
+  },
+  {
+    "text": "16 oz maple yogurt (I use Brown Cow Cream Top)",
+    "quantity": 16.0,
+    "measure": "ounce",
+    "food": "yogurt",
+    "weight": 453.59237,
+    "foodCategory": "yogurt",
+    "foodId": "food_a79ojfkbgdeekgblqmky9bunr8f6",
+    "image": "https://www.edamam.com/food-img/933/933eb3791b3a2175e007f1607d56b7e2.jpg"
+  },
+  {
+    "text": "1 tsp vanilla",
+    "quantity": 1.0,
+    "measure": "teaspoon",
+    "food": "vanilla",
+    "weight": 4.2,
+    "foodCategory": "Condiments and sauces",
+    "foodId": "food_bh1wvnqaw3q7ciascfoygaabax2a",
+    "image": "https://www.edamam.com/food-img/90f/90f910b0bf82750d4f6528263e014cca.jpg"
+  }
+]

@@ -1,0 +1,50 @@
+Recipe Name : Stovetop Crab Innards
+
+Recipe URL : http://www.seriouseats.com/recipes/2011/02/stovetop-crab-innards.html
+
+Recipe IMG URL : https://www.edamam.com/web-img/02f/02f244dc60783625aa4c7cede53d4cdb.jpg
+
+Recipe is free of : ['Sugar-Conscious', 'Low Sugar', 'Keto-Friendly', 'Pescatarian', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Pork-Free', 'Red-Meat-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'No oil added', 'Sulfite-Free']
+
+Recipe contains : []
+
+Recipe Calories : 179.17399999934074
+
+Recipe Weight : 192.09999999950801
+
+Recipe Time : 10.0
+
+Recipe Cuisine Tyoe : ['mediterranean']
+
+Recipe Diet Label : ['High-Protein', 'Low-Fat']
+
+Recipe Meal Type : ['lunch/dinner']
+
+Recipe Dish Type : ['sandwiches']
+
+One dungeness crab shell from one live dungeness crab
+2 tablespoons sake
+
+
+[
+  {
+    "text": "One dungeness crab shell from one live dungeness crab",
+    "quantity": 1.0,
+    "measure": "crab",
+    "food": "dungeness crab",
+    "weight": 163.0,
+    "foodCategory": "seafood",
+    "foodId": "food_bp4gkeybdil2wyb0rx7vha9ghzd9",
+    "image": "https://www.edamam.com/food-img/130/130482a04fdbd639b13b93f60c75b605.jpg"
+  },
+  {
+    "text": "2 tablespoons sake",
+    "quantity": 2.0,
+    "measure": "tablespoon",
+    "food": "sake",
+    "weight": 29.09999999950801,
+    "foodCategory": "cocktails and liquors",
+    "foodId": "food_b4lx3glaxob844b6jpzb8ay9men8",
+    "image": "https://www.edamam.com/food-img/bb7/bb76cdd34c080bf65908c09812fd9c8d.jpg"
+  }
+]

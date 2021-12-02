@@ -1,0 +1,50 @@
+Recipe Name : Tequila por mi Amante Recipe
+
+Recipe URL : http://www.seriouseats.com/recipes/2010/05/tequila-por-mi-amante-strawberries-drinks-cocktails-recipe.html
+
+Recipe IMG URL : https://www.edamam.com/web-img/71b/71bf21cf4559266efdd25ad2e319b32a.jpg
+
+Recipe is free of : ['Low Potassium', 'Kidney-Friendly', 'Keto-Friendly', 'Vegan', 'Vegetarian', 'Pescatarian', 'Paleo', 'Mediterranean', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'No oil added', 'Sulfite-Free', 'Kosher', 'Alcohol-Cocktail']
+
+Recipe contains : ['Sulfites']
+
+Recipe Calories : 1042.7808412001077
+
+Recipe Weight : 1066.5111866667132
+
+Recipe Time : 30240.0
+
+Recipe Cuisine Tyoe : ['world']
+
+Recipe Diet Label : ['Low-Fat', 'Low-Sodium']
+
+Recipe Meal Type : ['lunch/dinner']
+
+Recipe Dish Type : ['alcohol-cocktail']
+
+1 quart very ripe strawberries
+Half of one 750mL bottle reposado or blanco tequila
+
+
+[
+  {
+    "text": "1 quart very ripe strawberries",
+    "quantity": 1.0,
+    "measure": "quart",
+    "food": "strawberries",
+    "weight": 714.0,
+    "foodCategory": "fruit",
+    "foodId": "food_b4s2ibkbrrucmbabbaxhfau8ay42",
+    "image": "https://www.edamam.com/food-img/00c/00c8851e401bf7975be7f73499b4b573.jpg"
+  },
+  {
+    "text": "Half of one 750mL bottle reposado or blanco tequila",
+    "quantity": 0.5,
+    "measure": "bottle",
+    "food": "tequila",
+    "weight": 352.51118666671323,
+    "foodCategory": "liquors and cocktails",
+    "foodId": "food_ajguqpia53yz3oah6w2frad3tz65",
+    "image": "https://www.edamam.com/food-img/c7f/c7fcc63de96b349534aade3de3f9fa7d.jpg"
+  }
+]

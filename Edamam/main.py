@@ -16,13 +16,21 @@ def payloadConstructor(q,mealType,diet,health,cuisineType,dishType,):
 	payload ={}
 	payload['type'] = 'public'
 	payload['q'] = q
-	payload['app_id'] = apid
-	payload['app_key']  = apkey
+	payload['app_id'] = "4cd0ab6b"
+	payload['app_key']  = "fa1ac224ed371e8aab696b447e424a22"
 	if not isBlank(mealType):
 		payload['mealType'] = mealType
+	if not isBlank(health):
+		payload['health'] = health
+	if not isBlank(cuisineType):
+		payload['cuisineType'] = cuisineType
+	if not isBlank(dishType):
+		payload['dishType'] = dishType
 
-
+	
 	print(payload)
+	return payload
+	
 
 
 
@@ -44,13 +52,13 @@ print('List of the dishTyped inserted : '+ dishType)
 
 payload = payloadConstructor(ingredientsList,mealType,diet,health,cuisineType,dishType)
 
-# payload = {
-# 	'type': 'public',
-# 	'q': ingredientsList,
-# 	'app_id' : apid,
-# 	'app_key' : apkey
-# 	# 'mealType' : ' '
-# }
+payloadTemplate = {
+	'type': 'public',
+	'q': ingredientsList,
+	'app_id' : apid,
+	'app_key' : apkey
+	# 'mealType' : ' '
+}
 
 r = requests.get('https://api.edamam.com/api/recipes/v2',params = payload ,timeout=3)
 
@@ -165,6 +173,6 @@ try:
 				i = i + 1
 		print("Number of recipes :%d\n" %i)
 	else:
-		print("Error" + r.status_code)
+		print("Error : " + str(r.status_code))
 except requests.exceptions.RequestException as e:
 	raise SystemExit(e)

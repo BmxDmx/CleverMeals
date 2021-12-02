@@ -1,0 +1,61 @@
+Recipe Name : Chocolate Milk from Scratch Recipe
+
+Recipe URL : http://www.seriouseats.com/recipes/2011/09/how-to-make-better-chocolate-milk-from-scratch-recipe.html
+
+Recipe IMG URL : https://www.edamam.com/web-img/82e/82eae1ec9056ba08b52012b361802e17.jpg
+
+Recipe is free of : ['Vegetarian', 'Pescatarian', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Kosher']
+
+Recipe contains : ['Sulfites']
+
+Recipe Calories : 171.07000000112754
+
+Recipe Weight : 251.98437500040498
+
+Recipe Time : 3.0
+
+Recipe Cuisine Tyoe : ['british']
+
+Recipe Diet Label : ['Balanced', 'Low-Sodium']
+
+Recipe Meal Type : ['lunch/dinner']
+
+Recipe Dish Type : ['desserts']
+
+1 cup cold milk
+1 1/2 teaspoons Dutch-process cocoa powder
+3/4 teaspoons honey (or 1 1/2 teaspoons granulated sugar)
+
+
+[
+  {
+    "text": "1 cup cold milk",
+    "quantity": 1.0,
+    "measure": "cup",
+    "food": "milk",
+    "weight": 244.0,
+    "foodCategory": "Milk",
+    "foodId": "food_b49rs1kaw0jktabzkg2vvanvvsis",
+    "image": "https://www.edamam.com/food-img/7c9/7c9962acf83654a8d98ea6a2ade93735.jpg"
+  },
+  {
+    "text": "1 1/2 teaspoons Dutch-process cocoa powder",
+    "quantity": 1.5,
+    "measure": "teaspoon",
+    "food": "cocoa",
+    "weight": 2.6875000001363127,
+    "foodCategory": "chocolate",
+    "foodId": "food_afcmkjjaqwjkezbfz7htdb7mpkwz",
+    "image": "https://www.edamam.com/food-img/89a/89af89595db3cf2c3007f2b064c5fef6.jpg"
+  },
+  {
+    "text": "3/4 teaspoons honey (or 1 1/2 teaspoons granulated sugar)",
+    "quantity": 0.75,
+    "measure": "teaspoon",
+    "food": "honey",
+    "weight": 5.296875000268663,
+    "foodCategory": null,
+    "foodId": "food_bn6aoj9atkqx8fbkli859bbbxx62",
+    "image": "https://www.edamam.com/food-img/198/198c7b25c23b4235b4cc33818c7b335f.jpg"
+  }
+]

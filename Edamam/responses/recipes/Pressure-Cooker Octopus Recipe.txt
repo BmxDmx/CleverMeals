@@ -1,0 +1,50 @@
+Recipe Name : Pressure-Cooker Octopus Recipe
+
+Recipe URL : http://www.seriouseats.com/recipes/2016/06/pressure-cooker-octopus-recipe.html
+
+Recipe IMG URL : https://www.edamam.com/web-img/c69/c6922ad323db66d90b7d2c8d3c9cd3c4.jpg
+
+Recipe is free of : ['Sugar-Conscious', 'Low Sugar', 'Keto-Friendly', 'Pescatarian', 'Paleo', 'Mediterranean', 'DASH', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Alcohol-Free', 'No oil added', 'Sulfite-Free', 'FODMAP-Free', 'Immuno-Supportive']
+
+Recipe contains : []
+
+Recipe Calories : 1114.3799999999999
+
+Recipe Weight : 1359.0893423809277
+
+Recipe Time : 25.0
+
+Recipe Cuisine Tyoe : ['caribbean']
+
+Recipe Diet Label : ['High-Protein', 'Low-Fat', 'Low-Carb']
+
+Recipe Meal Type : ['lunch/dinner']
+
+Recipe Dish Type : ['main course']
+
+1 (2 1/2-pound; 1kg) whole octopus, rinsed well (including inside head cavity)
+Kosher salt
+
+
+[
+  {
+    "text": "1 (2 1/2-pound; 1kg) whole octopus, rinsed well (including inside head cavity)",
+    "quantity": 1.0,
+    "measure": "<unit>",
+    "food": "octopus",
+    "weight": 1359.0,
+    "foodCategory": "seafood",
+    "foodId": "food_bdd80gpazvmx8tbibzdpwbgyw9f2",
+    "image": "https://www.edamam.com/food-img/e2b/e2b278b26595422dd8fe09a058e7e0b2.jpg"
+  },
+  {
+    "text": "Kosher salt",
+    "quantity": 0.0,
+    "measure": null,
+    "food": "Kosher salt",
+    "weight": 8.154,
+    "foodCategory": "Condiments and sauces",
+    "foodId": "food_a1vgrj1bs8rd1majvmd9ubz8ttkg",
+    "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+  }
+]

@@ -1,0 +1,50 @@
+Recipe Name : Rhubarb Juice Recipe
+
+Recipe URL : http://www.seriouseats.com/recipes/2013/05/tart-unsweetened-homemade-rhubarb-juice-recipe.html
+
+Recipe IMG URL : https://www.edamam.com/web-img/f14/f1492ce026ed044bb4fa847a56de096f.jpg
+
+Recipe is free of : ['Sugar-Conscious', 'Low Potassium', 'Kidney-Friendly', 'Keto-Friendly', 'Vegan', 'Vegetarian', 'Pescatarian', 'Paleo', 'Mediterranean', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Sulfite-Free', 'FODMAP-Free', 'Kosher', 'Immuno-Supportive']
+
+Recipe contains : ['Sulfites']
+
+Recipe Calories : 190.50879540000003
+
+Recipe Weight : 2803.18474
+
+Recipe Time : 240.0
+
+Recipe Cuisine Tyoe : ['italian']
+
+Recipe Diet Label : ['Low-Fat', 'Low-Sodium']
+
+Recipe Meal Type : ['lunch/dinner']
+
+Recipe Dish Type : ['drinks']
+
+2 pounds rhubarb stalks
+8 cups water
+
+
+[
+  {
+    "text": "2 pounds rhubarb stalks",
+    "quantity": 2.0,
+    "measure": "pound",
+    "food": "rhubarb",
+    "weight": 907.18474,
+    "foodCategory": "fruit",
+    "foodId": "food_a7d8j1ma2msbdlbqllxhfacln7y6",
+    "image": "https://www.edamam.com/food-img/1ae/1aebf66086331223c10f9f4a4c4772ac.jpg"
+  },
+  {
+    "text": "8 cups water",
+    "quantity": 8.0,
+    "measure": "cup",
+    "food": "water",
+    "weight": 1896.0,
+    "foodCategory": "water",
+    "foodId": "food_a99vzubbk1ayrsad318rvbzr3dh0",
+    "image": "https://www.edamam.com/food-img/5dd/5dd9d1361847b2ca53c4b19a8f92627e.jpg"
+  }
+]
